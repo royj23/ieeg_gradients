@@ -5,6 +5,8 @@ Cortical gradients of neural dynamics
 
 Welcome to the code repository for our paper "Human cortical dynamics reflect graded contributions of local geometry and network topography"! We provide scripts and processed data files to reproduce the main analyses presented in the paper.
 
+You can find our preprint here: 
+https://www.biorxiv.org/content/10.1101/2025.01.07.631564v1 
 
 ### Key scripts
 
